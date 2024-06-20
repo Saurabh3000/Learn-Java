@@ -17,5 +17,7 @@ public class ExQue_1For {
 
             System.out.println("Table of "+n+" by " +count+ " = " +table);
         }
+
+        sc.close();
     }
 }

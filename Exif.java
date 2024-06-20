@@ -16,6 +16,8 @@ public class Exif{
             System.out.println("User are not eligible for Voting");
         }
 
+        sc.close();
+
     }
 }
 

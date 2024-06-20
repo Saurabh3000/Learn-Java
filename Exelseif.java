@@ -19,5 +19,7 @@ public class Exelseif {
         }else {
             System.out.println("A is Smaller");
         }
+
+        sc.close();
     }
 }

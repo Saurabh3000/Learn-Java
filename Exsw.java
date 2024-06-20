@@ -17,5 +17,7 @@ public class Exsw {
                     break;
             default: System.out.println("Invalid Button is pressed");
         }
+
+        sc.close();
     }
 }

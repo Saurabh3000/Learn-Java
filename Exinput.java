@@ -9,6 +9,8 @@ public class Exinput{
         String name = sc.next();  //next() fun accept only one word. To accept string sentences use nextln().
 
         System.out.println(name);
+
+        sc.close();
         
     }
 }
