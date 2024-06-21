@@ -1,5 +1,3 @@
-package Patterns;
-
 import java.util.*;
 
 public class Exsw_1 {
