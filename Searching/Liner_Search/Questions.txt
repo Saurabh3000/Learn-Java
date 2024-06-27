@@ -4,6 +4,8 @@ Check 15 is presnet or not. If presnet return index of 15 or not present return 
 Program2. fruits = {"Apple', "Mango", "Orange", "Pinnapple", "Strawberry"}
 Accept fruit name from user and check present or not in the array.
 
-
 Program3. numbers = {12, 15, 18, 19, 65, 54, 78,}
 find the element 19 in between range 1 to 5. If present return 0 or not then return -1.
+
+Program4. Find a minimum element in the array.
+numbers = {12, 15, 18, 19, 65, 54, 78,}
