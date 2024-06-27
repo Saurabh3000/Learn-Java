@@ -18,9 +18,12 @@ public class Program1 {
             return -1;
         }
 
-        for(int index = 0; index<num.length; index++){
+        for(int index = 0; index < num.length; index++){
+           
             int element = num[index];
+           
             if(element == se){
+           
                 return index;
             }
         }

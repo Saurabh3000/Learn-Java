@@ -16,9 +16,13 @@ public class Program4 {
     }
 
     static int linerSearch(int[] numbers){
+
         int min = numbers[0];
+
         for(int index = 1; index < numbers.length; index++){
+        
             if(numbers[index] < min){
+        
                 min = numbers[index];
             }
         }

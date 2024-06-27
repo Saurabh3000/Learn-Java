@@ -14,9 +14,13 @@ public class Program2 {
     }
     
     static void linerSearch(String[] fruits, String sfn){
+        
         for(int index = 0; index < fruits.length; index++){
+        
             String element = fruits[index];
+        
             if (element.equals(sfn)) {
+        
                 System.out.print("Fruit is Present");
             }
         }

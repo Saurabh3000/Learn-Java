@@ -9,3 +9,6 @@ find the element 19 in between range 1 to 5. If present return 0 or not then ret
 
 Program4. Find a minimum element in the array.
 numbers = {12, 15, 18, 19, 65, 54, 78,}
+
+Program5. Find a even element in the array.
+num = {127, 15, 17, 19, 65, 54, 783,}

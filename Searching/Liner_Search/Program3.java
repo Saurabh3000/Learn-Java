@@ -13,9 +13,13 @@ public class Program3 {
     }
     
     static int linerSearch(int[] numbers,int se, int start, int end){
+    
         for(int index = start; index < end; index++){
+    
             int element = numbers[index];
+    
             if(element == se){
+    
                 return 0;
             }
         }
