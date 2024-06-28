@@ -12,3 +12,7 @@ numbers = {12, 15, 18, 19, 65, 54, 78,}
 
 Program5. Find a even element in the array.
 num = {127, 15, 17, 19, 65, 54, 783,}
+
+Program6. Find a element in 2D Array.
+If found return 0 otherwise return -1.
+Search2DArray.java
