@@ -1,0 +1,5 @@
+Q-1. Write a function that take in a number and return true if the number is even, false if it is odd.
+
+Q-2. Write a function that take an array of numbers and return the sum of the numbers.
+
+Q-3. Write a function that take an array of numbers and return a new array with each number multiplied by 2.
