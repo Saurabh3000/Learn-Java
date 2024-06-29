@@ -3,3 +3,7 @@ Q-1. Write a function that take in a number and return true if the number is eve
 Q-2. Write a function that take an array of numbers and return the sum of the numbers.
 
 Q-3. Write a function that take an array of numbers and return a new array with each number multiplied by 2.
+
+Q-4. Write a function that take in two numbers and return their sum.
+
+Q-5. Write a funtion that take an array of numbers and return length of the array.
