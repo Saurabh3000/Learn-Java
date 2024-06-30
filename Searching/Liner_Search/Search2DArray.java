@@ -27,6 +27,7 @@ public class Search2DArray {
                     {14, 15, 16}
         };
         
+        // display array elements.
         for(int row = 0; row < 2; row++){
             for(int col = 0; col < 3; col++){
                 System.out.print(arr[row][col]+" ");
@@ -34,6 +35,7 @@ public class Search2DArray {
             System.out.println("");
         }
         
+        //accept element for search.
         System.out.println("Enter a Search Element = ");
         int se = sc.nextInt();
 

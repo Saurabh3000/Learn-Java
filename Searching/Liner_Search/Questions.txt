@@ -16,3 +16,5 @@ num = {127, 15, 17, 19, 65, 54, 783,}
 Program6. Find a element in 2D Array.
 If found return 0 otherwise return -1.
 Search2DArray.java
+
+Program7. Find how many even elements in the array.
