@@ -1,0 +1,18 @@
+Prog1: - Accept the String. Display the string. 
+        Concatenate the String. (+)
+
+Prog2: - Find the length of the String.
+        use .length().
+
+        hint:- "string_name.length()"
+
+Prog3: - Print all charaters of string.
+        use charAt().
+
+        hint: - find 1st length of the String
+                use charAt(i).
+
+Prog4: - Compare the two string and find the string is equal to or not.
+        using compareTo().
+
+        hint:- use "str1.compareTo(str2) == 0"
